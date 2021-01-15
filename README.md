@@ -1,4 +1,4 @@
-# Python Coding Standard
+# Python Coding Guidelines
 
 ## Import Module
 
